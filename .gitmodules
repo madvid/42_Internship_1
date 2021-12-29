@@ -1,0 +1,6 @@
+[submodule "Tern_Color_Scale"]
+	path = Tern_Color_Scale
+	url = https://github.com/madvid/Tern_Color_Scale
+[submodule "ModeTiS"]
+	path = ModeTiS
+	url = https://github.com/madvid/ModeTiS

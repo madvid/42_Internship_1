@@ -19,6 +19,7 @@ You can find in the directory "communications" the pdf of my final presentation 
 Thomas leads the work on the isolation forest method, wheras I leads the work with time series modelisation.
 
 ### Isolation forest
+
 🚧 redaction in progress 🚧
 
 ### Time series modelisation
@@ -27,5 +28,14 @@ Thomas leads the work on the isolation forest method, wheras I leads the work wi
 ## Technical work
 I retrieve 2 part of my works:
 * The tricolor scale [Tern-CS](https://github.com/madvid/Tern_Color_Scale) made in Python
-* A bunch of function to simplify some the interaction with the statsmodels and performs a kind of grid-search on the SARIMA model parameters
+* A bunch of function to simplify some the interaction with the statsmodels and performs a kind of grid-search on the SARIMA model parameters, named [ModeTiS](https://github.com/madvid/ModeTiS)
 
+## Bibliography
+1. 📰 - [Fei Tony Liu, Isolation Forest](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf?q=isolation-forest)
+2. 📰 - [Hariri, Extended Isolation Forest(Nov2018)](https://paperswithcode.com/paper/extended-isolation-forest)
+3. 📺 - [PyData Amsterdam 2019 - Jan Van Der Vegt, A walk through the isolation forest](https://www.youtube.com/watch?v=RyFQXQf4w4w)
+4. :books: [MOOC: Pratical Time Series Analysis](https://fr.coursera.org/learn/practical-time-series-analysis)
+5. :books: [MIT 18.S096 Topics in Mathematics with Applications in Finance](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
+
+## Aknowledgement
+I thank my supervisor Valéry Adeleine and Benoit Gatien, the developpers of the team Valentin Fabianski and Antoire Barruol. I am also grateful of the incredible work made by Alexandre Collemare and Pierre Leger who managed (at least at the time) the Lab42 x Natixis. 
